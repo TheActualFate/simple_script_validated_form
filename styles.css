@@ -2,3 +2,8 @@ span{
     background-color: red;
     display: none;
 }
+
+body{
+    background-color: #214F4B;
+    font-family: cursive;
+}
